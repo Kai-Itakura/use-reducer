@@ -1,0 +1,16 @@
+.operationArea {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.operationArea span {
+  margin-left: 4px;
+}
+
+.buttons {
+  margin-top: 8px;
+}
+.buttons button {
+  margin-left: 4px;
+  margin-right: 4px;
+}
